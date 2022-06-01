@@ -73,3 +73,6 @@ It promotes loose coupling with minimal effort and least intrusive mechanism.
 It supports eager instantiation and lazy loading of the services.
 
 *******************************************************************************************************
+
+
+https://enos.itcollege.ee/~jpoial/allalaadimised/reading/Spring-Interview-Questions.pdf
